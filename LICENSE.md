@@ -1,4 +1,4 @@
-#  
+#  Alfred for macOS custom Extension - export to PDF and version history is the best Alfred for macOS extension, featuring export to PDF and version history. Safe, efficient, and
 
 
 
